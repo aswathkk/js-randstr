@@ -1,0 +1,21 @@
+{
+  "name": "js-randstr",
+  "description": "Simple random string generator",
+  "main": "./lib/randstr.js",
+  "authors": [
+    "Aswath K (http://aswathkk.github.io)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "random",
+    "string"
+  ],
+  "homepage": "https://github.com/aswathkk/js-randstr",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
