@@ -1,7 +1,7 @@
 # js-randstr
 Simple library to generate random strings
 
-#Installation
+## Installation
 using [npm](http://github.com/isaacs/npm)
 ```sh
 npm install js-randstr
@@ -11,7 +11,7 @@ using [bower](http://bower.io)
 bower install js-randstr
 ```
 
-#Usage
+## Usage
 For nodejs
 ```js
 var randstr = require('js-randstr');
@@ -37,7 +37,7 @@ randstr(8, 'abcd');
 
 ```
 
-#Tests
+## Tests
 ```sh
 # install dev dependencies
 npm install
